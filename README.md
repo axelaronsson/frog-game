@@ -1,10 +1,7 @@
-# frog-game
-2d Game
 
-## Project setup
-```
-npm install
-```
+### About
+
+A 2d game built in vanilla JS.
 
 ### Live Demo here:
 ```
